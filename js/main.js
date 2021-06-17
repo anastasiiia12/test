@@ -1,7 +1,7 @@
 'use strict';
 
-a = 5;
-console.log(a); 
+// a = 5;
+// console.log(a); 
 
 // var number = 5;
 // var string = "hi";
@@ -46,7 +46,7 @@ console.log(decr--);
 console.log(5%2);
 console.log("2" === 2);
 
-let isChecked = false,
+let isChecked = true,
     isClose = true;
 
 console.log(isChecked || !isClose);
